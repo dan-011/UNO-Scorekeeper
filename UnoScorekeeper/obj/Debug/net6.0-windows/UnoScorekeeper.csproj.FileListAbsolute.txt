@@ -1,0 +1,17 @@
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\bin\Debug\net6.0-windows\UnoScorekeeper.exe
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\bin\Debug\net6.0-windows\UnoScorekeeper.deps.json
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\bin\Debug\net6.0-windows\UnoScorekeeper.runtimeconfig.json
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\bin\Debug\net6.0-windows\UnoScorekeeper.dll
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\bin\Debug\net6.0-windows\UnoScorekeeper.pdb
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\obj\Debug\net6.0-windows\UnoScorekeeper.csproj.AssemblyReference.cache
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\obj\Debug\net6.0-windows\UnoScorekeeper.Form1.resources
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\obj\Debug\net6.0-windows\UnoScorekeeper.csproj.GenerateResource.cache
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\obj\Debug\net6.0-windows\UnoScorekeeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\obj\Debug\net6.0-windows\UnoScorekeeper.AssemblyInfoInputs.cache
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\obj\Debug\net6.0-windows\UnoScorekeeper.AssemblyInfo.cs
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\obj\Debug\net6.0-windows\UnoScorekeeper.csproj.CoreCompileInputs.cache
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\obj\Debug\net6.0-windows\UnoScorekeeper.dll
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\obj\Debug\net6.0-windows\refint\UnoScorekeeper.dll
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\obj\Debug\net6.0-windows\UnoScorekeeper.pdb
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\obj\Debug\net6.0-windows\UnoScorekeeper.genruntimeconfig.cache
+C:\Users\dpali\Visual Studio Projects\UnoScorekeeper\UnoScorekeeper\obj\Debug\net6.0-windows\ref\UnoScorekeeper.dll
